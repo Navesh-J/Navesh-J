@@ -5,7 +5,8 @@
 ## 🚀 My Projects
 - 🌱 **Java Programs**: A growing collection of Java code.
 - 🌐 **Spotify Clone**: A web-based clone using front-end technologies.
-- 📝 **LeetCode Solutions**: Algorithm practice in various languages.
+- 📝 **LeetCode Solutions**: Algorithm practice in primarily in Java.
+- 📝 **Task Tracker**:  A to-do list application built with HTML, CSS, JavaScript, and Firebase for user authentication
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
