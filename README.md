@@ -21,6 +21,6 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/navesh-jaiswal/)
-[![LeetCode](https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png)](https://leetcode.com/u/NaveshJ/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/NaveshJ/)
 
 ![Animated GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
