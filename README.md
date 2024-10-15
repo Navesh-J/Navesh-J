@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Navesh-J&color=blue)
 
 ## 🚀 My Projects
-- 🌱 **Java Programs**: A growing collection of Java code.
 - 🌐 **Spotify Clone**: A web-based clone using front-end technologies.
 - 📝 **LeetCode Solutions**: Algorithm practice in primarily in Java.
 - 📝 **Task Tracker**:  A to-do list application built with HTML, CSS, JavaScript, and Firebase for user authentication
