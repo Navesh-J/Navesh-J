@@ -4,7 +4,7 @@
 
 ## 🚀 My Projects
 - 🌐 **Spotify Clone**: A web-based clone using front-end technologies.
-- 📝 **LeetCode Solutions**: Algorithm practice in primarily in Java.
+- 📝 **LeetCode Solutions**: Algorithm practice primarily in Java.
 - 📝 **Task Tracker**:  A to-do list application built with HTML, CSS, JavaScript, and Firebase for user authentication
 
 ## 🛠️ Technologies & Tools
