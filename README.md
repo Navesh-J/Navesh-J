@@ -3,9 +3,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Navesh-J&color=blue)
 
 ## 🚀 My Projects
-- 🌐 **Spotify Clone**: A web-based clone using front-end technologies.
-- 📝 **LeetCode Solutions**: Algorithm practice primarily in Java.
-- 📝 **Task Tracker**:  A to-do list application built with HTML, CSS, JavaScript, and Firebase for user authentication
+
+- 📝 **Task Tracker**: A to-do list application built with HTML, CSS, JavaScript, and LocalStorage. Features include task CRUD operations and a user-friendly interface.
+- 🎮 **Flappy Potato**: A Unity-powered game where players navigate a potato through obstacles with physics-based mechanics.
+- 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.
+- 🌐 **Spotify Clone**: A web-based clone using front-end technologies to replicate Spotify's UI.
+- 📝 **LeetCode Repository**: Algorithm solutions written in Java, showcasing problem-solving capabilities.
+
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
