@@ -4,9 +4,9 @@
 
 ## 🚀 My Projects
 
-- 📝 **Task Tracker**: A to-do list application built with HTML, CSS, JavaScript, and LocalStorage. Features include task CRUD operations and a user-friendly interface.
+- 📝 **Task Tracker**: A to-do list application built with HTML, CSS, JavaScript, and LocalStorage. Features include task CRUD operations and a user-friendly interface.[View Live](https://trackmytasks.netlify.app/)
+- 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.[View Live](https://navesh.vercel.app/)
 - 🎮 **Flappy Potato**: A Unity-powered game where players navigate a potato through obstacles with physics-based mechanics.
-- 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.
 - 🌐 **Spotify Clone**: A web-based clone using front-end technologies to replicate Spotify's UI.
 - 📝 **LeetCode Repository**: Algorithm solutions written in Java, showcasing problem-solving capabilities.
 
