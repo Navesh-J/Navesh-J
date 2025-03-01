@@ -1,4 +1,4 @@
-# Hi, I'm Navesh Jaiswal ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+# Hi, I'm Navesh Jaiswal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Navesh-J&color=blue)
 
