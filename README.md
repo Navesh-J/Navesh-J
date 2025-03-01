@@ -1,11 +1,11 @@
-# Hi, I'm Navesh Jaiswal 👋
+# Hi, I'm Navesh Jaiswal ![Hi](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Navesh-J&color=blue)
 
 ## 🚀 My Projects
 
-- 📝 **Task Tracker**: A to-do list application built with HTML, CSS, JavaScript, and LocalStorage. Features include task CRUD operations and a user-friendly interface.[View Live](https://trackmytasks.netlify.app/)
 - 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.[View Live](https://navesh.vercel.app/)
+- 📝 **Task Tracker**: A to-do list application built with HTML, CSS, JavaScript, and LocalStorage. Features include task CRUD operations and a user-friendly interface.[View Live](https://trackmytasks.netlify.app/)
 - 🎮 **Flappy Potato**: A Unity-powered game where players navigate a potato through obstacles with physics-based mechanics.
 - 🌐 **Spotify Clone**: A web-based clone using front-end technologies to replicate Spotify's UI.
 - 📝 **LeetCode Repository**: Algorithm solutions written in Java, showcasing problem-solving capabilities.
