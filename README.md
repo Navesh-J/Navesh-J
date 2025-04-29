@@ -9,7 +9,6 @@
 - 🎮 **Flappy Potato**: A Unity-powered game where players navigate a potato through obstacles with physics-based mechanics.
 - 📧 **Email Spam App**: SMS Spam Detection System Using Natural language processing in Python
 - 📝 **LeetCode Repository**: Algorithm solutions written in Java, showcasing problem-solving capabilities.
-- 🌐 **Spotify Clone**: A web-based clone using front-end technologies to replicate Spotify's UI.
 
 
 ## 🛠️ Technologies & Tools
