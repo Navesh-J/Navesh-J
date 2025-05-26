@@ -5,7 +5,7 @@
 ## 🚀 My Projects
 
 - 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.[View](https://navesh.vercel.app/)
-- 📝 **Easy Users**: A full-stack user management web app with CRUD operations, RESTful APIs, and secure backend, deployed using Render and Vercel[View](https://easyusers.vercel.app/)
+- 👥 **Easy Users**: A full-stack user management web app with CRUD operations, RESTful APIs, and secure backend, deployed using Render and Vercel[View](https://easyusers.vercel.app/)
 - 🎮 **Flappy Potato**: A Unity-powered game where players navigate a potato through obstacles with physics-based mechanics.
 - 📧 **Email Spam App**: SMS Spam Detection System Using Natural language processing in Python
 - 📝 **LeetCode Repository**: Algorithm solutions written in Java, showcasing problem-solving capabilities.
