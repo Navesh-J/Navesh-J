@@ -7,7 +7,6 @@
 - 🛡️ **Portfolio Website**: An immersive portfolio showcasing projects, skills, and a journey through the realms of development. Built using React with a thematic style inspired by classic tales.[View](https://navesh.vercel.app/)
 - 👥 **Easy Users**: A full-stack user management web app with CRUD operations, RESTful APIs, and secure backend, deployed using Render and Vercel[View](https://easyusers.vercel.app/)
 - 🐧 **PingWish**: Built a full-stack birthday reminder app that uses a Node.js cron job to send automated emails day and before. [View](https://pingwish.vercel.app/)
-◦ Features include add/edit/delete birthdays, toggle reminders and search
 - 📧 **Email Spam App**: SMS Spam Detection System Using Natural language processing in Python
 
 
